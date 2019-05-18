@@ -1,0 +1,14 @@
+---
+title: FinancieR Created
+author: Jake Vestal
+date: '2019-05-18'
+slug: financier-created
+categories:
+  - New Package
+tags: []
+---
+
+# New Package
+
+FiancieR is a tidy and accurate framework for the analysis of historical financial data. Find information, release dates, vignettes, and progress here: 
+[FinancieR Homepage]https://gothic-hedge-society.github.io/FinancieR/

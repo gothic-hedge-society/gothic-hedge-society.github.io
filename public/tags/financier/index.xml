@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FinancieR on A Hugo website</title>
+    <link>/tags/financier/</link>
+    <description>Recent content in FinancieR on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/financier/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FinancieR Created</title>
+      <link>/2019/05/18/financier-created/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/18/financier-created/</guid>
+      <description>dg</description>
+    </item>
+    
+  </channel>
+</rss>

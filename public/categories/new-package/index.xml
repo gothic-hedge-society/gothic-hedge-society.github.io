@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Package on A Hugo website</title>
+    <link>/categories/new-package/</link>
+    <description>Recent content in New Package on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/new-package/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FinancieR Created</title>
+      <link>/2019/05/18/financier-created/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/18/financier-created/</guid>
+      <description> New Package FiancieR is a tidy and accurate framework for the analysis of historical financial data. Find information, release dates, vignettes, and progress here: [FinancieR Homepage]https://gothic-hedge-society.github.io/FinancieR/
+ </description>
+    </item>
+    
+  </channel>
+</rss>

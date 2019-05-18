@@ -6,10 +6,20 @@
     <description>Recent content in Posts on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FinancieR Created</title>
+      <link>/2019/05/18/financier-created/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/18/financier-created/</guid>
+      <description> New Package FiancieR is a tidy and accurate framework for the analysis of historical financial data. Find information, release dates, vignettes, and progress here: [FinancieR Homepage]https://gothic-hedge-society.github.io/FinancieR/
+ </description>
+    </item>
     
     <item>
       <title>A Plain Markdown Post</title>
